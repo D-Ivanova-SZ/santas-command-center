@@ -1,5 +1,4 @@
 
-```markdown
 # 🎅 Santa's Command Center
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
@@ -7,6 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
 A festive, modular Python console application that helps Santa Claus manage his Christmas operations by pulling real-time data from external APIs and displaying it with a polished terminal UI. Integrated three external REST APIs, robust error handling and a rich, color-coded terminal interface.
+
 ## 📖 Table of Contents
 
 - [Overview](#-overview)
@@ -33,11 +33,11 @@ Santa's Command Center is an interactive console application built as a hands-on
 
 ## 📸 Screenshots
 
-[Greeting Card](screenshots/greeting.png)
-[Main Menu](screenshots/menu.png)
-[Weather Module](screenshots/weather.png)
-[Joke Module](screenshots/joke.png)
-[Cocktail Module](screenshots/cocktail.png)
+[GreetingCard](screenshots/greeting.png)
+[MainMenu](screenshots/menu.png)
+[WeatherModule](screenshots/weather.png)
+[JokeModule](screenshots/joke.png)
+[CocktailModule](screenshots/cocktail.png)
 
 ## ⚙️ Installation
 
@@ -49,7 +49,7 @@ Santa's Command Center is an interactive console application built as a hands-on
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/santas-command-center.git
+git clone https://github.com/D-Ivanova-SZ/santas-command-center.git
 cd santas-command-center
 
 # Create a virtual environment
@@ -116,4 +116,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ---
 
 **Author:** Daniela Ivanova (https://github.com/D-Ivanova-SZ)
-```
