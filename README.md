@@ -33,11 +33,11 @@ Santa's Command Center is an interactive console application built as a hands-on
 
 ## 📸 Screenshots
 
-[GreetingCard](screenshots/greeting.png)
-[MainMenu](screenshots/menu.png)
-[WeatherModule](screenshots/weather.png)
-[JokeModule](screenshots/joke.png)
-[CocktailModule](screenshots/cocktail.png)
+[Greeting Card](screenshots/greeting.png) |
+[Main Menu](screenshots/menu.png) |
+[Weather Module](screenshots/weather.png) |
+[Joke Module](screenshots/joke.png) |
+[Cocktail Module](screenshots/cocktail.png)
 
 ## ⚙️ Installation
 
